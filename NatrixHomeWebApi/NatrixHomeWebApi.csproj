@@ -5,7 +5,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20200402123525_Database.cs" />
+    <Compile Remove="Migrations\20200402123525_Database.Designer.cs" />
+    <Compile Remove="Migrations\20200402125405_database.cs" />
+    <Compile Remove="Migrations\20200402125405_database.Designer.cs" />
+    <Compile Remove="Migrations\20200402132450_NatrixHomeDb.cs" />
+    <Compile Remove="Migrations\20200402132450_NatrixHomeDb.Designer.cs" />
+    <Compile Remove="Migrations\20200402134111_NatrixHomeDb.cs" />
+    <Compile Remove="Migrations\20200402134111_NatrixHomeDb.Designer.cs" />
+    <Compile Remove="Migrations\20200402135110_NatrixHomeDb.cs" />
+    <Compile Remove="Migrations\20200402135110_NatrixHomeDb.Designer.cs" />
+    <Compile Remove="Migrations\20200403130214_NatrixHomeDb.cs" />
+    <Compile Remove="Migrations\20200403130214_NatrixHomeDb.Designer.cs" />
+    <Compile Remove="Migrations\20200403131608_NatrixHomeDb.cs" />
+    <Compile Remove="Migrations\20200403131608_NatrixHomeDb.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.3" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.3" />
