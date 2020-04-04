@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\NatrixProject\\source\\NatrixNetworkAPI\\NatrixHomeWebApi\\NatrixHomeWebApi.csproj": {}
+    "D:\\Projects\\Natrixnetwork\\Source\\SourceAPI\\NatrixNetworkAPI\\NatrixHomeWebApi\\NatrixHomeWebApi.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\NatrixProject\\source\\NatrixNetworkAPI\\NatrixHomeWebApi\\NatrixHomeWebApi.csproj": {
+    "D:\\Projects\\Natrixnetwork\\Source\\SourceAPI\\NatrixNetworkAPI\\NatrixHomeWebApi\\NatrixHomeWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\NatrixProject\\source\\NatrixNetworkAPI\\NatrixHomeWebApi\\NatrixHomeWebApi.csproj",
+        "projectUniqueName": "D:\\Projects\\Natrixnetwork\\Source\\SourceAPI\\NatrixNetworkAPI\\NatrixHomeWebApi\\NatrixHomeWebApi.csproj",
         "projectName": "NatrixHomeWebApi",
-        "projectPath": "F:\\Projects\\NatrixProject\\source\\NatrixNetworkAPI\\NatrixHomeWebApi\\NatrixHomeWebApi.csproj",
-        "packagesPath": "C:\\Users\\NS-05\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\NatrixProject\\source\\NatrixNetworkAPI\\NatrixHomeWebApi\\obj\\",
+        "projectPath": "D:\\Projects\\Natrixnetwork\\Source\\SourceAPI\\NatrixNetworkAPI\\NatrixHomeWebApi\\NatrixHomeWebApi.csproj",
+        "packagesPath": "C:\\Users\\NS-01\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\Natrixnetwork\\Source\\SourceAPI\\NatrixNetworkAPI\\NatrixHomeWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\NS-05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NS-01\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "G:\\Abhishek\\Project2\\CanadaConsultPortalLite\\CanadaConsultPortalLite\\CCP.UI.ADMIN.3.0\\packages\\AutoMapper.8.0.0\\lib\\net461": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
